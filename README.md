@@ -6,7 +6,7 @@ To develop and design an interactive tenant retention dashboard using Power BI, 
 
 ## KPI questions
 
-	What is the current tenant retention rate compared to the previous quarter?
+	What is the current tenant retention rate compared to the previous Month?
 
 	What is the average satisfaction score of tenants over the last year?
 
